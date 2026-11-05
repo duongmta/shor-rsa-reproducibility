@@ -1,6 +1,6 @@
 # Base-resolved Shor order-finding circuits
 
-Code and recorded data supporting **Base-resolved evaluation of generic reversible circuits for Shor order finding on small RSA moduli**. This package is tied to the revised manuscript snapshot dated 5 November 2026 by the SHA-256 in `MANUSCRIPT_CONTEXT.json`. It is prepared locally for publication; no repository URL or DOI has been assigned by this package.
+Code and recorded data supporting **Base-resolved evaluation of generic reversible circuits for Shor order finding on small RSA moduli**. This package is tied to the revised manuscript snapshot dated 5 November 2026 by the SHA-256 in `MANUSCRIPT_CONTEXT.json`. The public code and data repository is available at https://github.com/duongmta/shor-rsa-reproducibility.
 
 The experiment compares three reversible modular-multiplication implementations: A (`beauregard`, Fourier arithmetic), B (`cuccaro`, ripple-carry arithmetic), and C (`montgomery`, Montgomery reduction). The `before` circuit retains all controlled multipliers; `after` omits precisely those whose known multiplier constant is 1 modulo N. The circuit generator does not take the factors or multiplicative order as inputs.
 
