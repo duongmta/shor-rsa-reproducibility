@@ -1,0 +1,386 @@
+[
+  {
+    "file": "shor_reversible/analysis.py",
+    "source": "shor_reversible/analysis.py",
+    "sha256": "4f11aea62c7ff64af9838b420eaeb9a426cf0ca983408cc4442daac09203b3f0",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/e2e.py",
+    "source": "shor_reversible/e2e.py",
+    "sha256": "f44092b98ec18bc225d3f3e74280a8a816cd1d32262441b4679107c07ec20e6c",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/e2e_sweep.py",
+    "source": "shor_reversible/e2e_sweep.py",
+    "sha256": "833fbcf438433ea9886be52cc7c85427249b7ccbba9f32a71e934e832fd74400",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/families.py",
+    "source": "shor_reversible/families.py",
+    "sha256": "43874e5d4418ca98c85572ac6dbee27db9a7e5594fde0424a56c3a3c2165c52b",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/hybrid.py",
+    "source": "shor_reversible/hybrid.py",
+    "sha256": "9a940a97fd31c34ab3bf55e172ff0acb5942959a5eeee534471441bcf284ac3f",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/local_tables.py",
+    "source": "shor_reversible/local_tables.py",
+    "sha256": "5c67b23d5238fa93791b5a2f8d557e00b0aa2edc1d85e0dd77369a367a5e110c",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/make_fig4.py",
+    "source": "shor_reversible/make_fig4.py",
+    "sha256": "9d19f4c06e6e3d76bcf0df2cb62ddd1e7e74ea40372c7d63011f4ba2edfe9324",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/make_figs.py",
+    "source": "shor_reversible/make_figs.py",
+    "sha256": "084a7b85203f4ff83efec4f0076133bf971c58a7cdecbff4495da21bd40ce662",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/paper_tables.py",
+    "source": "shor_reversible/paper_tables.py",
+    "sha256": "39f7eee009f7c9750f411116aacb189b46059d94f34c9fcce4ba361f82a572cb",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/plot_results.py",
+    "source": "shor_reversible/plot_results.py",
+    "sha256": "fd9d14d437588d033188c0f735b2f567a29e5327e1985e35bb8b51d6099785b3",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/qpe.py",
+    "source": "shor_reversible/qpe.py",
+    "sha256": "a07022805bc1726d8783f9406f47f187797b3ecf73decd41c4940dd2feaa5cb6",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/revcirc.py",
+    "source": "shor_reversible/revcirc.py",
+    "sha256": "8bbc15d898fb1ec9d2ed0f9f5dec3ac915b2249b8f9abafa1f2add88fcff1f8d",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/run_qiskit.py",
+    "source": "shor_reversible/run_qiskit.py",
+    "sha256": "d9eb7e95152f73522f535c3357b8449c008f71675f51d58df046fe7d8a06a2d7",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/test_sim.py",
+    "source": "shor_reversible/test_sim.py",
+    "sha256": "3f7cb2457f2bb43864f0149879519a49bba4b427c87fc6a3a7f84244079cf75d",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/verify.py",
+    "source": "shor_reversible/verify.py",
+    "sha256": "a3da2e4e07d03c8fee643fc2935675c804ce99fbca54ebab8150779fe1b4383e",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/verify2.py",
+    "source": "shor_reversible/verify2.py",
+    "sha256": "9d895dec9d721d854fa78baa38ae6d884e30e3405c1a7e8b667d4162a034af40",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/logical_counts.csv",
+    "source": "shor_reversible/logical_counts.csv",
+    "sha256": "d6ba88c6294f5852f430254efb8315dbce6c018b8ad65105456142a2eded0c9a",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/paper_analytic.json",
+    "source": "shor_reversible/paper_analytic.json",
+    "sha256": "da2c7981869d41c69ee5e9a5574b61b66531dc57ce417187c9e3ded72071d114",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/results/counts.csv",
+    "source": "shor_reversible/results/counts.csv",
+    "sha256": "24ee9b0df36bb470a579652439bfdb3df7bbfe3a89935dcec802176aeba9e173",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/results/counts.jsonl",
+    "source": "shor_reversible/results/counts.jsonl",
+    "sha256": "8a2809a766a35c0fa348c90160967bac0b27c2216122e32c20b98ae9d60b4cab",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/results/environment.json",
+    "source": "shor_reversible/results/environment.json",
+    "sha256": "7d3dce81472ee8d19b901b9202850f5c16f3ceb3306f6a33c53ce54aa560c4d9",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/results/simulate.csv",
+    "source": "shor_reversible/results/simulate.csv",
+    "sha256": "9c1465851b582750bddfab52a98c9eb2e0b23136ac46a5cc84838295b8a9a894",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/results/simulate.jsonl",
+    "source": "shor_reversible/results/simulate.jsonl",
+    "sha256": "1586957107738ddf353ea83d266840a9262b1ac3181b55edecf7991841d19989",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/results_independent/independent_A.jsonl",
+    "source": "shor_reversible/results_independent/independent_A.jsonl",
+    "sha256": "b4e5719cdb4bd819b2cc1c3873f4cd5378f7df922e39f0d899e76a6556fe1647",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/results_independent/independent_B15.jsonl",
+    "source": "shor_reversible/results_independent/independent_B15.jsonl",
+    "sha256": "3fcd868b562de04900b591ddae217f98c58a4f3b4b080049a9057907b021e630",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/results_independent/local_A15.jsonl",
+    "source": "shor_reversible/results_independent/local_A15.jsonl",
+    "sha256": "cbf98303eb8357fc179e39e8d08c2f9813e6b9f10da53939842f588cb2749a9b",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/results_independent/local_A21.jsonl",
+    "source": "shor_reversible/results_independent/local_A21.jsonl",
+    "sha256": "b92f00401d12063ec0d6df6fc1f7e2e575618f9001633ebca380886de6aad63e",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/results_independent/local_B15.jsonl",
+    "source": "shor_reversible/results_independent/local_B15.jsonl",
+    "sha256": "3a1d13fdf5cd46b50397fc7726603f5a639cc55a09a130dbf26457d6006373d6",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/tables/independent_summary.csv",
+    "source": "shor_reversible/tables/independent_summary.csv",
+    "sha256": "08788667115b05e1cd71ecca7301b0d17bfd55a3c1d1647b1fe93f075b2da159",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/tables/table2_grouped.csv",
+    "source": "shor_reversible/tables/table2_grouped.csv",
+    "sha256": "0760383444bd05b27a7a521971d3479f3423b665b8602e79e35047c4c8e36e8b",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/tables/table2_per_base.csv",
+    "source": "shor_reversible/tables/table2_per_base.csv",
+    "sha256": "e7412e44a2e6d8047e21e1e83e8a4c831f52badb1362400820224a6175cbc826",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/tables/table3_grouped.csv",
+    "source": "shor_reversible/tables/table3_grouped.csv",
+    "sha256": "ea7b17bf4e6575d0e343c1a7e47b7b74c9f79d00723c049861d1b128837a3558",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/tables/table3_scaling.csv",
+    "source": "shor_reversible/tables/table3_scaling.csv",
+    "sha256": "969fb19f0783a56672832d352cb6729dd9499394a20f944b5d455b11fcb7bc6c",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/tables/table4_compiled_all.csv",
+    "source": "shor_reversible/tables/table4_compiled_all.csv",
+    "sha256": "2340e145c83b1167fe08a75adaeaccb1a3fb312bb907092e9d162e6f8a039ddc",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/tables/table5_aer_all.csv",
+    "source": "shor_reversible/tables/table5_aer_all.csv",
+    "sha256": "0fbd22be13d7a1d0f55c230e75be7d18bfce6ed4425671ac44b7d854d5400d9f",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/logs/00_env.txt",
+    "source": "shor_reversible/logs/00_env.txt",
+    "sha256": "d3ab37664d89b2305444aefb95caf1a63f45fc1790aee628ad3a553b65049a44",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/logs/01_test_sim.txt",
+    "source": "shor_reversible/logs/01_test_sim.txt",
+    "sha256": "c300424fcdb964c1087560b89eed126ab7c504e6f4c6bdfdab0de7576a81a5a5",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/logs/02_verify_toffoli.txt",
+    "source": "shor_reversible/logs/02_verify_toffoli.txt",
+    "sha256": "ae2d7c39be880c54a1398a4e5e2ba3de1013ce9dd19be0789632ae48bc4852b7",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/logs/03_verify_fourier_montgomery.txt",
+    "source": "shor_reversible/logs/03_verify_fourier_montgomery.txt",
+    "sha256": "7c301592eea061c9808381f641f6a8beccb4e97e2bfa2686cccb327776e6c2e3",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/logs/04_logical_counts.txt",
+    "source": "shor_reversible/logs/04_logical_counts.txt",
+    "sha256": "04193a873cb2a9d556c7a196942849aba9845fdc266485c8f6ee553f569b1805",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/logs/05_e2e_A15_a7_before.txt",
+    "source": "shor_reversible/logs/05_e2e_A15_a7_before.txt",
+    "sha256": "f52bde989828472dcb92f1467b348ef98745ac59ed9828aec8444883625ccf82",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/logs/06_sweep_A15_err.txt",
+    "source": "shor_reversible/logs/06_sweep_A15_err.txt",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/logs/06_sweep_A21_err.txt",
+    "source": "shor_reversible/logs/06_sweep_A21_err.txt",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/logs/06_sweep_B15_err.txt",
+    "source": "shor_reversible/logs/06_sweep_B15_err.txt",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/logs/07_qiskit_counts.txt",
+    "source": "shor_reversible/logs/07_qiskit_counts.txt",
+    "sha256": "dff77c8f971e29abadb393b2b4f9bf597afb406abe00ab61571e6618f772e67b",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/logs/08_aer_N15.txt",
+    "source": "shor_reversible/logs/08_aer_N15.txt",
+    "sha256": "245ff3a79f3c7614bba102b10297a604084add721f1ffb5b4d124fdb25311233",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/logs/08_aer_N21_N35.txt",
+    "source": "shor_reversible/logs/08_aer_N21_N35.txt",
+    "sha256": "1fff60abfed02545d71ebe5eefb44449a59842b1b94f470de11f471776cfc218",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/logs/08_tables.txt",
+    "source": "shor_reversible/logs/08_tables.txt",
+    "sha256": "5b3b7ee2091fad9bd980ee48d4a966a29d1be98e4a1c7fb384d91a9b0be3cd22",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/logs/09_figs.txt",
+    "source": "shor_reversible/logs/09_figs.txt",
+    "sha256": "3673a2f418fb89b0e2300e77f01df1deaadf5864ce5dcf3ba91f1b1c2ebc0d6f",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/logs/09_paper_tables.txt",
+    "source": "shor_reversible/logs/09_paper_tables.txt",
+    "sha256": "7f5a0f7441ca962e92ef3773fbc9ffa3f60312673e068eda0e4fd2e0f411c1c3",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/figures/Hinh_1.png",
+    "source": "shor_reversible/figures/Hinh_1.png",
+    "sha256": "f44223dd0c7c4b2200fd52f3541f7f9f0dd9823c72f891fe3ae87725a1f93061",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/figures/Hinh_2.png",
+    "source": "shor_reversible/figures/Hinh_2.png",
+    "sha256": "e66fed89a6821d11a613c581deed9496d655523ec19dd3b8c732da2f2567b7e6",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/figures/Hinh_3.png",
+    "source": "shor_reversible/figures/Hinh_3.png",
+    "sha256": "f900504899740274f96dc60bc14d58fb58f8407e2178975728c258b3d4eb94b2",
+    "status": "byte-identical"
+  },
+  {
+    "file": "shor_reversible/figures/Hinh_4.png",
+    "source": "shor_reversible/figures/Hinh_4.png",
+    "sha256": "11f6ad78eade1f2cd2cdab5a6be85db7f37948cb6ec7a4ad9d9053d49aa8b56e",
+    "status": "byte-identical"
+  },
+  {
+    "file": "revision_20261104/audit_experiments.py",
+    "source": "revision_20261104/audit_experiments.py",
+    "sha256": "8cbdc874e8ddd20328000df40b9a5c3326f960cbbafa12317f4e2eea106070c0",
+    "status": "byte-identical"
+  },
+  {
+    "file": "revision_20261104/aqft_check.py",
+    "source": "revision_20261104/aqft_check.py",
+    "sha256": "f66c92e76bc8dc0272bb39e27187211228ad0f0c2a8bdd11d491f79e0ef5c143",
+    "status": "byte-identical"
+  },
+  {
+    "file": "revision_20261104/postprocessing_small.json",
+    "source": "revision_20261104/postprocessing_small.json",
+    "sha256": "c4bcaa70a02e4f91d524815ebfc4aa15443142c456b4e5effba208f5b4a04970",
+    "status": "byte-identical"
+  },
+  {
+    "file": "revision_20261104/postprocessing_large.json",
+    "source": "revision_20261104/postprocessing_large.json",
+    "sha256": "6437fd35dc189776d0eef4897b0aad066e8d69a46e27235e7b0647369b6d05ef",
+    "status": "byte-identical"
+  },
+  {
+    "file": "revision_20261104/spreads.json",
+    "source": "revision_20261104/spreads.json",
+    "sha256": "22836ad590d4027a29e2eb0f0adedf45215b4ff68a856747816066e21d66d524",
+    "status": "byte-identical"
+  },
+  {
+    "file": "revision_20261104/sampling_diagnostic.json",
+    "source": "revision_20261104/sampling_diagnostic.json",
+    "sha256": "5b9ad881807d7854d65c64a66ad32ab6d0f3431377c80bcdc040f43b510562b8",
+    "status": "byte-identical"
+  },
+  {
+    "file": "revision_20261104/transpiler_sensitivity.json",
+    "source": "revision_20261104/transpiler_sensitivity.json",
+    "sha256": "bf8a85c08aef2f19cac8fc99984339903d1e0b1a3b25e4cfa65a449a647b4086",
+    "status": "byte-identical"
+  },
+  {
+    "file": "revision_20261104/arithmetic_T_metrics.json",
+    "source": "revision_20261104/arithmetic_T_metrics.json",
+    "sha256": "66a656a1335cf9fcc6b73dfacc92d04acd3efb7479d37982adaedf45f556882a",
+    "status": "byte-identical"
+  },
+  {
+    "file": "revision_20261104/aqft_results.json",
+    "source": "revision_20261104/aqft_results.json",
+    "sha256": "94d9beed25b3a863b7b9755d27481a9eb60c1916b862cc58e28048d43c8d3120",
+    "status": "byte-identical"
+  },
+  {
+    "file": "revision_20261104/new_environment.json",
+    "source": "revision_20261104/new_environment.json",
+    "sha256": "5aaa4c01b94d7c6bb3bd6d23487c0cb93f95a5bbd8dbc06d954e514a2bf11f97",
+    "status": "byte-identical"
+  }
+]

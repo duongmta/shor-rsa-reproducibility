@@ -1,0 +1,478 @@
+[
+  {
+    "family": "beauregard",
+    "stage": "before",
+    "level": 1,
+    "logical": {
+      "size": 6003,
+      "depth": 3190,
+      "multi_qubit": 4090,
+      "ops": {
+        "cp": 3228,
+        "h": 1456,
+        "mcphase": 702,
+        "p": 320,
+        "x": 129,
+        "cx": 128,
+        "cswap": 32,
+        "measure": 8
+      },
+      "cx": 128,
+      "rz_clifford": 0,
+      "rz_t_like": 0,
+      "rz_arbitrary": 0
+    },
+    "compiled": {
+      "size": 28849,
+      "depth": 15790,
+      "multi_qubit": 11052,
+      "ops": {
+        "rz": 16356,
+        "cx": 11052,
+        "sx": 1404,
+        "x": 29,
+        "measure": 8
+      },
+      "cx": 11052,
+      "rz_clifford": 1740,
+      "rz_t_like": 5223,
+      "rz_arbitrary": 9393
+    }
+  },
+  {
+    "family": "beauregard",
+    "stage": "before",
+    "level": 3,
+    "logical": {
+      "size": 6003,
+      "depth": 3190,
+      "multi_qubit": 4090,
+      "ops": {
+        "cp": 3228,
+        "h": 1456,
+        "mcphase": 702,
+        "p": 320,
+        "x": 129,
+        "cx": 128,
+        "cswap": 32,
+        "measure": 8
+      },
+      "cx": 128,
+      "rz_clifford": 0,
+      "rz_t_like": 0,
+      "rz_arbitrary": 0
+    },
+    "compiled": {
+      "size": 24008,
+      "depth": 14212,
+      "multi_qubit": 10490,
+      "ops": {
+        "rz": 11882,
+        "cx": 10490,
+        "sx": 1588,
+        "x": 40,
+        "measure": 8
+      },
+      "cx": 10490,
+      "rz_clifford": 1372,
+      "rz_t_like": 3522,
+      "rz_arbitrary": 6988
+    }
+  },
+  {
+    "family": "beauregard",
+    "stage": "after",
+    "level": 1,
+    "logical": {
+      "size": 1563,
+      "depth": 807,
+      "multi_qubit": 1066,
+      "ops": {
+        "cp": 828,
+        "h": 376,
+        "mcphase": 198,
+        "p": 80,
+        "x": 33,
+        "cx": 32,
+        "cswap": 8,
+        "measure": 8
+      },
+      "cx": 32,
+      "rz_clifford": 0,
+      "rz_t_like": 0,
+      "rz_arbitrary": 0
+    },
+    "compiled": {
+      "size": 7653,
+      "depth": 4212,
+      "multi_qubit": 2940,
+      "ops": {
+        "rz": 4330,
+        "cx": 2940,
+        "sx": 370,
+        "measure": 8,
+        "x": 5
+      },
+      "cx": 2940,
+      "rz_clifford": 454,
+      "rz_t_like": 1323,
+      "rz_arbitrary": 2553
+    }
+  },
+  {
+    "family": "beauregard",
+    "stage": "after",
+    "level": 3,
+    "logical": {
+      "size": 1563,
+      "depth": 807,
+      "multi_qubit": 1066,
+      "ops": {
+        "cp": 828,
+        "h": 376,
+        "mcphase": 198,
+        "p": 80,
+        "x": 33,
+        "cx": 32,
+        "cswap": 8,
+        "measure": 8
+      },
+      "cx": 32,
+      "rz_clifford": 0,
+      "rz_t_like": 0,
+      "rz_arbitrary": 0
+    },
+    "compiled": {
+      "size": 6581,
+      "depth": 3833,
+      "multi_qubit": 2867,
+      "ops": {
+        "rz": 3262,
+        "cx": 2867,
+        "sx": 434,
+        "x": 10,
+        "measure": 8
+      },
+      "cx": 2867,
+      "rz_clifford": 377,
+      "rz_t_like": 933,
+      "rz_arbitrary": 1952
+    }
+  },
+  {
+    "family": "cuccaro",
+    "stage": "before",
+    "level": 1,
+    "logical": {
+      "size": 9557,
+      "depth": 7158,
+      "multi_qubit": 9020,
+      "ops": {
+        "cx": 6080,
+        "ccx": 2880,
+        "x": 513,
+        "cswap": 32,
+        "cp": 28,
+        "h": 16,
+        "measure": 8
+      },
+      "cx": 6080,
+      "rz_clifford": 0,
+      "rz_t_like": 0,
+      "rz_arbitrary": 0
+    },
+    "compiled": {
+      "size": 57788,
+      "depth": 38564,
+      "multi_qubit": 22740,
+      "ops": {
+        "rz": 28949,
+        "cx": 22740,
+        "sx": 5658,
+        "x": 433,
+        "measure": 8
+      },
+      "cx": 22740,
+      "rz_clifford": 8481,
+      "rz_t_like": 20405,
+      "rz_arbitrary": 63
+    }
+  },
+  {
+    "family": "cuccaro",
+    "stage": "before",
+    "level": 3,
+    "logical": {
+      "size": 9557,
+      "depth": 7158,
+      "multi_qubit": 9020,
+      "ops": {
+        "cx": 6080,
+        "ccx": 2880,
+        "x": 513,
+        "cswap": 32,
+        "cp": 28,
+        "h": 16,
+        "measure": 8
+      },
+      "cx": 6080,
+      "rz_clifford": 0,
+      "rz_t_like": 0,
+      "rz_arbitrary": 0
+    },
+    "compiled": {
+      "size": 54754,
+      "depth": 37369,
+      "multi_qubit": 22620,
+      "ops": {
+        "rz": 26025,
+        "cx": 22620,
+        "sx": 5698,
+        "x": 403,
+        "measure": 8
+      },
+      "cx": 22620,
+      "rz_clifford": 8426,
+      "rz_t_like": 17487,
+      "rz_arbitrary": 112
+    }
+  },
+  {
+    "family": "cuccaro",
+    "stage": "after",
+    "level": 1,
+    "logical": {
+      "size": 2477,
+      "depth": 1803,
+      "multi_qubit": 2324,
+      "ops": {
+        "cx": 1520,
+        "ccx": 768,
+        "x": 129,
+        "cp": 28,
+        "h": 16,
+        "cswap": 8,
+        "measure": 8
+      },
+      "cx": 1520,
+      "rz_clifford": 0,
+      "rz_t_like": 0,
+      "rz_arbitrary": 0
+    },
+    "compiled": {
+      "size": 15392,
+      "depth": 9915,
+      "multi_qubit": 6022,
+      "ops": {
+        "rz": 7763,
+        "cx": 6022,
+        "sx": 1502,
+        "x": 97,
+        "measure": 8
+      },
+      "cx": 6022,
+      "rz_clifford": 2247,
+      "rz_t_like": 5453,
+      "rz_arbitrary": 63
+    }
+  },
+  {
+    "family": "cuccaro",
+    "stage": "after",
+    "level": 3,
+    "logical": {
+      "size": 2477,
+      "depth": 1803,
+      "multi_qubit": 2324,
+      "ops": {
+        "cx": 1520,
+        "ccx": 768,
+        "x": 129,
+        "cp": 28,
+        "h": 16,
+        "cswap": 8,
+        "measure": 8
+      },
+      "cx": 1520,
+      "rz_clifford": 0,
+      "rz_t_like": 0,
+      "rz_arbitrary": 0
+    },
+    "compiled": {
+      "size": 14545,
+      "depth": 9608,
+      "multi_qubit": 5998,
+      "ops": {
+        "rz": 6930,
+        "cx": 5998,
+        "sx": 1518,
+        "x": 91,
+        "measure": 8
+      },
+      "cx": 5998,
+      "rz_clifford": 2195,
+      "rz_t_like": 4671,
+      "rz_arbitrary": 64
+    }
+  },
+  {
+    "family": "montgomery",
+    "stage": "before",
+    "level": 1,
+    "logical": {
+      "size": 15637,
+      "depth": 7253,
+      "multi_qubit": 11580,
+      "ops": {
+        "cp": 10588,
+        "h": 3856,
+        "mcphase": 736,
+        "cx": 224,
+        "p": 192,
+        "cswap": 32,
+        "measure": 8,
+        "x": 1
+      },
+      "cx": 224,
+      "rz_clifford": 0,
+      "rz_t_like": 0,
+      "rz_arbitrary": 0
+    },
+    "compiled": {
+      "size": 70251,
+      "depth": 31498,
+      "multi_qubit": 26072,
+      "ops": {
+        "rz": 40632,
+        "cx": 26072,
+        "sx": 3506,
+        "x": 33,
+        "measure": 8
+      },
+      "cx": 26072,
+      "rz_clifford": 3972,
+      "rz_t_like": 11221,
+      "rz_arbitrary": 25439
+    }
+  },
+  {
+    "family": "montgomery",
+    "stage": "before",
+    "level": 3,
+    "logical": {
+      "size": 15637,
+      "depth": 7253,
+      "multi_qubit": 11580,
+      "ops": {
+        "cp": 10588,
+        "h": 3856,
+        "mcphase": 736,
+        "cx": 224,
+        "p": 192,
+        "cswap": 32,
+        "measure": 8,
+        "x": 1
+      },
+      "cx": 224,
+      "rz_clifford": 0,
+      "rz_t_like": 0,
+      "rz_arbitrary": 0
+    },
+    "compiled": {
+      "size": 44501,
+      "depth": 23353,
+      "multi_qubit": 19566,
+      "ops": {
+        "rz": 22086,
+        "cx": 19566,
+        "sx": 2808,
+        "x": 33,
+        "measure": 8
+      },
+      "cx": 19566,
+      "rz_clifford": 1817,
+      "rz_t_like": 5221,
+      "rz_arbitrary": 15048
+    }
+  },
+  {
+    "family": "montgomery",
+    "stage": "after",
+    "level": 1,
+    "logical": {
+      "size": 3925,
+      "depth": 1800,
+      "multi_qubit": 2892,
+      "ops": {
+        "cp": 2668,
+        "h": 976,
+        "mcphase": 160,
+        "cx": 56,
+        "p": 48,
+        "cswap": 8,
+        "measure": 8,
+        "x": 1
+      },
+      "cx": 56,
+      "rz_clifford": 0,
+      "rz_t_like": 0,
+      "rz_arbitrary": 0
+    },
+    "compiled": {
+      "size": 17339,
+      "depth": 7518,
+      "multi_qubit": 6416,
+      "ops": {
+        "rz": 10042,
+        "cx": 6416,
+        "sx": 864,
+        "x": 9,
+        "measure": 8
+      },
+      "cx": 6416,
+      "rz_clifford": 982,
+      "rz_t_like": 2821,
+      "rz_arbitrary": 6239
+    }
+  },
+  {
+    "family": "montgomery",
+    "stage": "after",
+    "level": 3,
+    "logical": {
+      "size": 3925,
+      "depth": 1800,
+      "multi_qubit": 2892,
+      "ops": {
+        "cp": 2668,
+        "h": 976,
+        "mcphase": 160,
+        "cx": 56,
+        "p": 48,
+        "cswap": 8,
+        "measure": 8,
+        "x": 1
+      },
+      "cx": 56,
+      "rz_clifford": 0,
+      "rz_t_like": 0,
+      "rz_arbitrary": 0
+    },
+    "compiled": {
+      "size": 10802,
+      "depth": 5474,
+      "multi_qubit": 4730,
+      "ops": {
+        "rz": 5363,
+        "cx": 4730,
+        "sx": 692,
+        "x": 9,
+        "measure": 8
+      },
+      "cx": 4730,
+      "rz_clifford": 446,
+      "rz_t_like": 1281,
+      "rz_arbitrary": 3636
+    }
+  }
+]

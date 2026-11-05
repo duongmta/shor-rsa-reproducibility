@@ -1,0 +1,22 @@
+[analytic]
+  wrote tables/table2_per_base.csv (41 rows)
+  wrote tables/table2_grouped.csv (15 rows)
+  mean p(N,a) over bases, N=15: 0.4286
+  mean p(N,a) over bases, N=21: 0.2112
+  mean p(N,a) over bases, N=35: 0.3033
+[table3]
+  wrote tables/table3_grouped.csv (10 rows)
+  wrote tables/table3_scaling.csv (3 rows)
+  reduction range over bases with identity blocks: 74.1-91.6 %
+[table4]
+  wrote tables/table4_compiled_all.csv (246 rows)
+[table5]
+  wrote tables/table5_aer_all.csv (144 rows)
+  Aer runs: 144, all p_exact in CI: True, total off-support shots: 0
+[independent]
+  wrote tables/independent_summary.csv (50 rows)
+  independent_A.jsonl: 18 circuits, max_dev 1.5e-13, in CI 18/18, off-support 0
+  independent_B15.jsonl: 7 circuits, max_dev 1.2e-15, in CI 7/7, off-support 0
+  local_A15.jsonl: 7 circuits, max_dev 1.6e-14, in CI 7/7, off-support 0
+  local_A21.jsonl: 11 circuits, max_dev 1.4e-13, in CI 11/11, off-support 0
+  local_B15.jsonl: 7 circuits, max_dev 1.2e-15, in CI 7/7, off-support 0

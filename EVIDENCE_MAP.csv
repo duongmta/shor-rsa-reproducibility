@@ -1,0 +1,19 @@
+manuscript_location,quantity,data_or_source,reproduction,scope
+Tables 1 and 3,register widths; 123 before/after pairs,shor_reversible/families.py; shor_reversible/qpe.py; shor_reversible/logical_counts.csv,shor_reversible/local_tables.py,Logical gates exclude measurements; group means in Table 3
+Table 2 and Fig. 2,41 exact base-resolved probability cases,shor_reversible/analysis.py; shor_reversible/tables/table2_per_base.csv,shor_reversible/paper_tables.py,Canonical finite CF rule for ideal and uniform inputs
+Table 4,six N15/a7 resource rows; full 246-record dataset supplied,shor_reversible/results/counts.jsonl,shor_reversible/run_qiskit.py counts,Level 1; basis rz/sx/x/cx; seed 20260929; includes measurements
+Table 5 and Fig. 4a,six N15/a7 histograms,shor_reversible/results/simulate.jsonl,reproduce.py aer,Four SV and two MPS runs in Table 5; 144 total Aer runs
+Section 3.2,132 controlled multiplier blocks,shor_reversible/logs/02_verify_toffoli.txt; shor_reversible/logs/03_verify_fourier_montgomery.txt,reproduce.py functional,44 constants for each family; both control values and every x<N; basis-input criterion
+Section 4.1,order-two acceptance numerators 123/523/2337,shor_reversible/analysis.py,check_release.py,Denominators 2(2k+1)<N; uniform input cardinality
+Section 4.2,within-group spreads,revision_20261104/spreads.json,revision_20261104/audit_experiments.py analytic,100*(max-min)/mean; 0.6724808% before and 5.0486458% after
+Section 4.3,level-1/3 compiler comparisons,revision_20261104/transpiler_sensitivity.json,revision_20261104/audit_experiments.py quantum,Six circuits; two transpiler levels
+Section 4.3,B arithmetic T-count and T-depth,revision_20261104/arithmetic_T_metrics.json,revision_20261104/audit_experiments.py quantum,Fixed exact decomposition; no terminal QFT; unit T and zero Clifford weight
+Section 4.3,rotation synthesis leading-order estimates,revision_20261104/transpiler_sensitivity.json,T_like + 3*M*log2(M/delta),delta=1e-3; not a full synthesis or measured A/C T-depth
+Section 4.3,terminal inverse-QFT approximation,revision_20261104/aqft_results.json,revision_20261104/aqft_check.py,A21/a2; exact/cutoff4/cutoff2; MPS threshold 1e-16
+Section 4.4,seeded sampling diagnostic,revision_20261104/sampling_diagnostic.json,revision_20261104/audit_experiments.py quantum,enable_truncation true/false; fixed seed and one thread
+Section 4.4 and Fig. 4b,25 distinct after-circuit independent checks,shor_reversible/results_independent/local_A15.jsonl; shor_reversible/results_independent/local_A21.jsonl; shor_reversible/results_independent/local_B15.jsonl,shor_reversible/e2e_sweep.py,Cloud copies are archived duplicates; marginal probability error
+Section 4.4,one before-circuit independent check,shor_reversible/logs/05_e2e_A15_a7_before.txt,shor_reversible/e2e.py beauregard 15 7 before,5995 gates excluding measurements; marginal error approximately 6.4e-14
+Section 4.6,phase-precision and post-processing sensitivity,revision_20261104/postprocessing_small.json,revision_20261104/audit_experiments.py analytic,41 pairs x 3 phase widths x L1/L8 = 246 analytic records
+Table 6 and Section 4.6,nine 10-12-bit pairs; all Wilson intervals,revision_20261104/postprocessing_large.json,revision_20261104/audit_experiments.py analytic,20000 ideal and 20000 uniform samples per pair; outcomes reused across rules
+Equation 10,streamed finite-QPE orbit expression,revision_20261104/audit_experiments.py: prob_chunk,revision_20261104/audit_experiments.py analytic,Analytic distribution; no full large-modulus circuit
+Figs. 1-4,exact current embedded image assets,figures_manuscript/; MANUSCRIPT_CONTEXT.json,shor_reversible/make_figs.py; shor_reversible/make_fig4.py,Historical plotting scripts; current internal-flow panel is an authored schematic

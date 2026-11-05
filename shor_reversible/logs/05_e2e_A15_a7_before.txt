@@ -1,0 +1,1 @@
+beauregard 15 7 before qubits 18 gates 5995 max|P_sim-P_exact| = 5.950795411990839e-14 7s

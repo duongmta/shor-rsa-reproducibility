@@ -1,0 +1,3 @@
+figs 1-3 done
+fig4 done 25
+figures written to C:\Users\doduo\Desktop\Đỗ Văn Dương\Đề tài RSA\bài báo RSA\shor_reversible\results

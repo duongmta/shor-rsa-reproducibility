@@ -1,0 +1,2 @@
+beauregard: 44/44 blocks correct (k=1 included), min output prob 1.000000000000, 39s
+montgomery: 44/44 blocks correct (k=1 included), min output prob 1.000000000000, 99s

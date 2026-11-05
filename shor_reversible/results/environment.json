@@ -1,0 +1,22 @@
+{
+  "python": "3.12.10",
+  "qiskit": "2.2.3",
+  "qiskit_aer": "0.17.2",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "processor": "Intel64 Family 6 Model 191 Stepping 2, GenuineIntel",
+  "cpu_count": 16,
+  "config": {
+    "basis_gates": [
+      "rz",
+      "sx",
+      "x",
+      "cx"
+    ],
+    "optimization_level": 1,
+    "seed_transpiler": 20260929,
+    "coupling_map": null,
+    "shots": 1024,
+    "seed_simulator_base": 20260929,
+    "statevector_max_qubits": 26
+  }
+}

@@ -1,0 +1,9 @@
+analytic large 899 2 140
+analytic large 899 3 420
+analytic large 899 5 42
+analytic large 1763 2 140
+analytic large 1763 3 168
+analytic large 1763 5 420
+analytic large 3233 2 780
+analytic large 3233 3 260
+analytic large 3233 5 780

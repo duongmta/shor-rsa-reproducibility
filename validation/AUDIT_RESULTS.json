@@ -1,0 +1,65 @@
+{
+  "audit_date": "2026-11-05",
+  "status": "PASS",
+  "logical_and_compiled_circuits_rerun": 246,
+  "original_scientific_python_files": 18,
+  "original_files_preserved_byte_for_byte": 64,
+  "basis_input_multiplier_blocks_rerun": 132,
+  "table_csv_files_regenerated_and_matched": 7,
+  "manuscript_tables_checked": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "revision_experiments": {
+    "postprocessing_small.json": {
+      "rerun": true,
+      "matches_archive": true,
+      "fields": "all recorded numeric fields"
+    },
+    "postprocessing_large.json": {
+      "rerun": true,
+      "matches_archive": true,
+      "fields": "all recorded numeric fields"
+    },
+    "spreads.json": {
+      "rerun": true,
+      "matches_archive": true,
+      "fields": "all recorded numeric fields"
+    },
+    "transpiler_sensitivity.json": {
+      "rerun": true,
+      "matches_archive": true,
+      "fields": "all recorded numeric fields"
+    },
+    "arithmetic_T_metrics.json": {
+      "rerun": true,
+      "matches_archive": true,
+      "fields": "all recorded numeric fields"
+    },
+    "sampling_diagnostic.json": {
+      "rerun": true,
+      "matches_archive": true,
+      "fields": [
+        "stage",
+        "truncation",
+        "counts"
+      ]
+    },
+    "aqft_results.json": {
+      "rerun": true,
+      "matches_archive": true,
+      "fields": "all recorded numeric fields"
+    }
+  },
+  "archived_aer_records_audited": 144,
+  "full_144_aer_simulation_sweep_rerun": false,
+  "full_25_independent_statevector_sweep_rerun": false,
+  "fresh_aer_sampling_diagnostic_runs": 4,
+  "fresh_terminal_qft_mps_probability_runs": 3,
+  "secret_pattern_scan": "No matches for tested private-key/token/credential patterns; not a proof of absence",
+  "publication_status": "Local preparation only; no remote push or release performed"
+}

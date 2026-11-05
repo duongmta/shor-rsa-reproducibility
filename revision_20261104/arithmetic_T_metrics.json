@@ -1,0 +1,16 @@
+[
+  {
+    "stage": "before",
+    "ccx": 2880,
+    "cswap": 32,
+    "T_count": 20464,
+    "T_depth": 10693
+  },
+  {
+    "stage": "after",
+    "ccx": 768,
+    "cswap": 8,
+    "T_count": 5464,
+    "T_depth": 2779
+  }
+]

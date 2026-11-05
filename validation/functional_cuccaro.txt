@@ -1,0 +1,2 @@
+cuccaro adder OK
+cuccaro: 44/44 blocks correct, max error 0.00e+00, 0.6s
